@@ -3,6 +3,5 @@
 2. Using **K-Means** based on Customer's:
    - *Recency*
    - *Frequency*
-   - *MonetaryValue*
-   
+   - *MonetaryValue*  
 And **Elbow** method for cluster optimizing
