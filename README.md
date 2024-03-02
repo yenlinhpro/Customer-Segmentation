@@ -4,4 +4,4 @@
    - *Recency*
    - *Frequency*
    - *MonetaryValue*
-   And **Elbow** method for cluster optimizing
+And **Elbow** method for cluster optimizing
